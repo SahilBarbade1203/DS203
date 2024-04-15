@@ -1,5 +1,5 @@
-# DS203
-Programming in Data Science
+# Data-Driven Architectural Design Optimization
+DS203 - Programming in Data Science
 
 # Project Overview:
 The architecture company embarked on a digitalization initiative to transform their building layout designs into digital formats. With a repository of 1183 building layouts captured as bitmaps, they sought to harness the power of data science and machine learning to enhance productivity, streamline design processes, and extract valuable insights hidden within the data.
